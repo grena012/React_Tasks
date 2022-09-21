@@ -1,0 +1,21 @@
+#form{
+  background-color: BurlyWood;
+  width: 400px;
+  height: 300px;
+  text-align: center;
+}
+#userinput{
+  height: 0.7cm;
+  font-size: large;
+  border-radius: 5px;
+}
+#button{
+  height: 1cm;
+  background-color: black;
+  color: white;
+
+}
+
+ th, td {
+    border: 1px solid black;
+}

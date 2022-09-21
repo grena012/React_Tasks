@@ -1,0 +1,35 @@
+.main-div{
+    height: 700px;
+    width: 80%;
+    background-color: rgb(27, 91, 102);
+    text-align: center;
+    color: whitesmoke;
+    padding: 250px;
+
+}
+.inputs{
+    width: 6cm;
+    height: 0.8cm;
+}
+.add-btn{
+    position: relative;
+    right: 30px;
+    color: rgb(49, 46, 46);
+    
+}
+.singleItem{
+    display: flex;
+    background-color: whitesmoke;
+    color: black;
+    width: 6cm;
+    justify-content: space-between;
+    margin-left: 620px;
+    margin-top: 5px;
+    height: o.8cm;
+}
+.items{
+    text-align: center;
+}
+.del-btn{
+    margin-top: 5px;
+}

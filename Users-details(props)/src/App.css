@@ -1,0 +1,20 @@
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 50px;
+}
+.my_cards{
+    margin: 25px;
+    text-align: center;
+    background-color: rgb(222, 241, 241);
+    padding: 25px;
+}
+.images{
+    border-radius: 40%;
+}
+.info{
+    margin: 25px;
+    text-align: center;
+    background-color: rgb(222, 241, 241);
+    padding: 25px;
+}

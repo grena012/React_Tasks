@@ -1,0 +1,25 @@
+/* .mainPage{
+    display: flex;
+    background-color: black;
+    color: white;
+} */
+
+.videos{
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content: space-around;
+}
+.VFooter{
+    display: flex;
+}
+.space{
+    width: 50%;
+    display: flex;
+}
+.vfooter{
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

@@ -1,0 +1,14 @@
+.mainPage{
+  display: flex;
+}
+.left{
+  width: 50%;
+  font-size: xx-large;
+}
+.right{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  background-color: black;
+  color: white;
+}
